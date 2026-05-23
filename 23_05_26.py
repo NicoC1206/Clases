@@ -13,7 +13,7 @@ for n in range (10):
         print ("a")
         break
 
-
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 while True:
     for n in range(6):
         print("d")
